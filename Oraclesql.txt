@@ -3,3 +3,5 @@ select sysdate from dual;
 select trunc(sysdate) from dual;
 
 select trunc(sysdate)-1 from dual;
+
+select trunc(sysdate)+1 from dual;
